@@ -24,7 +24,7 @@ import static com.example.android.quizapp.QuestionModel.ResponseType.CHECKBOX;
 import static com.example.android.quizapp.QuestionModel.ResponseType.RADIO_BUTTON;
 import static com.example.android.quizapp.QuestionModel.ResponseType.STRING;
 
-// TODO The packages within which the R file was being referenced does not exist
+
 public class MainActivity extends Activity {
     TextView questionLabel, questionCountLabel, scoreLabel;
     EditText answerEdt;
